@@ -1,0 +1,4 @@
+Meteoloc
+========
+
+Ce projet consiste en la spécification et la réalisation d’une maquette d’application web décisionnelle nommée Météoloc. Cette application permet de savoir si les conditions météorologiques sont favorables (ou non) afin d’effectuer une activité de plein air en un lieu spécifique donné. Il repose sur l’utilisation d’une part de services de localisations, et d’autre part de services de météorologies. Ce projet s’articule sous la forme d’une architecture SOA afin de proposer un socle commun d’accès au service Météoloc par toutes les applications voulant s’y greffer, nous détaillerons.
