@@ -1,0 +1,71 @@
+9
+
+dir
+381
+http://subversion.ifsic.univ-rennes1.fr/meteoloc/Meteoloc/src/com/meteoloc/services
+http://subversion.ifsic.univ-rennes1.fr/meteoloc
+
+
+
+2010-02-12T13:41:18.285457Z
+372
+26002494
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+a37583b0-2ea6-4592-bfdd-fc954d3fa530
+
+Meteoloc.java
+file
+
+
+
+
+2010-02-12T13:53:48.000000Z
+e4df5e83eb19da0f0345241b70b3b4de
+2010-02-12T13:36:26.192712Z
+371
+26002494
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2102
+
+facade
+dir
+
+strategy
+dir
+
+utils
+dir
+

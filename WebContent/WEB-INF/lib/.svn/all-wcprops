@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/meteoloc/!svn/ver/74/Meteoloc/WebContent/WEB-INF/lib
+END
+jaxrpc.jar
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/meteoloc/!svn/ver/3/Meteoloc/WebContent/WEB-INF/lib/jaxrpc.jar
+END
+commons-logging-1.0.4.jar
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/meteoloc/!svn/ver/3/Meteoloc/WebContent/WEB-INF/lib/commons-logging-1.0.4.jar
+END
+saaj.jar
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/meteoloc/!svn/ver/3/Meteoloc/WebContent/WEB-INF/lib/saaj.jar
+END
+wsdl4j-1.5.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/meteoloc/!svn/ver/3/Meteoloc/WebContent/WEB-INF/lib/wsdl4j-1.5.1.jar
+END
+jdom.jar
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/meteoloc/!svn/ver/74/Meteoloc/WebContent/WEB-INF/lib/jdom.jar
+END
+axis-ant.jar
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/meteoloc/!svn/ver/3/Meteoloc/WebContent/WEB-INF/lib/axis-ant.jar
+END
+log4j-1.2.8.jar
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/meteoloc/!svn/ver/3/Meteoloc/WebContent/WEB-INF/lib/log4j-1.2.8.jar
+END
+javax.activation.jar
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/meteoloc/!svn/ver/33/Meteoloc/WebContent/WEB-INF/lib/javax.activation.jar
+END
+javax.mail.jar
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/meteoloc/!svn/ver/33/Meteoloc/WebContent/WEB-INF/lib/javax.mail.jar
+END
+axis.jar
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/meteoloc/!svn/ver/49/Meteoloc/WebContent/WEB-INF/lib/axis.jar
+END
+commons-discovery-0.2.jar
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/meteoloc/!svn/ver/3/Meteoloc/WebContent/WEB-INF/lib/commons-discovery-0.2.jar
+END

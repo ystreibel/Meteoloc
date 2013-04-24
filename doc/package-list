@@ -1,0 +1,8 @@
+com.meteoloc.services
+com.meteoloc.services.facade
+com.meteoloc.services.facade.connectors
+com.meteoloc.services.facade.connectors.local
+com.meteoloc.services.facade.connectors.meteo
+com.meteoloc.services.strategy
+com.meteoloc.services.strategy.all
+com.meteoloc.services.utils

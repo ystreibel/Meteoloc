@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/meteoloc/!svn/ver/224/Meteoloc/WebContent/WEB-INF
+END
+web.xml
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/meteoloc/!svn/ver/112/Meteoloc/WebContent/WEB-INF/web.xml
+END
+server-config.wsdd
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/meteoloc/!svn/ver/51/Meteoloc/WebContent/WEB-INF/server-config.wsdd
+END
