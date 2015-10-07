@@ -10,10 +10,6 @@ Installer un IDE JAVA
 
 // TODO complete
 
-![Meteoloc](screen.png)
-![Meteoloc](screen.png)
-![Meteoloc](screen.png)
-
 ## Contributing
 
 1. Fork it!
